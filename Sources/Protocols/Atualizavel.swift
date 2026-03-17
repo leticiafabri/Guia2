@@ -1,0 +1,3 @@
+protocol Atualizavel {
+    func atualizarSoftware()
+}
